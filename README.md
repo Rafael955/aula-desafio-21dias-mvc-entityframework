@@ -32,7 +32,7 @@
 # Comandos para migração:
 ``` bash
 dotnet tool install --global dotnet-ef
-dotnet ef migrations add CarroAdd
+dotnet ef migrations add ModeloAluno
 dotnet ef database update
 ```
 
